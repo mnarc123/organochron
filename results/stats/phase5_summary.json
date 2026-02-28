@@ -1,0 +1,60 @@
+{
+  "cross_validation": {
+    "mean_jaccard": 0.6840051375821485,
+    "std_jaccard": 0.023317102069125562,
+    "n_folds": 5
+  },
+  "held_out_prediction": {
+    "overall_r": 0.2664722850835075,
+    "overall_p": 1.2149527013168317e-166,
+    "n_predictions": 10280
+  },
+  "genage_enrichment": {
+    "n_significant_tissues": 0
+  },
+  "drugage_overlap": {
+    "n_overlap": 7,
+    "hypergeom_p": 8.7e-05,
+    "top20_drugs": [
+      "gliclazide",
+      "dexamethasone",
+      "pioglitazone",
+      "atorvastatin",
+      "digoxin",
+      "dasatinib",
+      "pravastatin",
+      "captopril",
+      "ramipril",
+      "ibuprofen",
+      "aspirin",
+      "pentoxifylline",
+      "metformin",
+      "acarbose",
+      "losartan",
+      "ruxolitinib",
+      "hydrochlorothiazide",
+      "troglitazone",
+      "rosuvastatin",
+      "imatinib"
+    ],
+    "drugage_drugs": [
+      "pravastatin",
+      "captopril",
+      "ibuprofen",
+      "aspirin",
+      "metformin",
+      "acarbose",
+      "losartan"
+    ],
+    "data_source": "real_LINCS_L1000_GSE92742"
+  },
+  "sex_stratified": {
+    "edge_jaccard": 0.3728813559322034,
+    "hub_rank_rho": 0.8276923076923076
+  },
+  "permutation_test": {
+    "p_value": 0.0,
+    "real_edges": 97,
+    "perm_mean_edges": 8.78
+  }
+}

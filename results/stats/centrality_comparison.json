@@ -1,0 +1,665 @@
+{
+  "causal": {
+    "nodes": 26,
+    "edges": 36,
+    "top10_out_degree": [
+      {
+        "tissue": "Thyroid",
+        "score": 2.0142
+      },
+      {
+        "tissue": "Adipose - Subcutaneous",
+        "score": 0.9026
+      },
+      {
+        "tissue": "Skin - Not Sun Exposed (Suprapubic)",
+        "score": 0.7822
+      },
+      {
+        "tissue": "Small Intestine - Terminal Ileum",
+        "score": 0.7296
+      },
+      {
+        "tissue": "Pancreas",
+        "score": 0.5927
+      },
+      {
+        "tissue": "Adipose - Visceral (Omentum)",
+        "score": 0.5464
+      },
+      {
+        "tissue": "Muscle - Skeletal",
+        "score": 0.5391
+      },
+      {
+        "tissue": "Lung",
+        "score": 0.5078
+      },
+      {
+        "tissue": "Heart - Atrial Appendage",
+        "score": 0.4795
+      },
+      {
+        "tissue": "Spleen",
+        "score": 0.464
+      }
+    ],
+    "top10_pagerank": [
+      {
+        "tissue": "Brain - Cortex",
+        "score": 0.1043
+      },
+      {
+        "tissue": "Adrenal Gland",
+        "score": 0.0945
+      },
+      {
+        "tissue": "Liver",
+        "score": 0.0706
+      },
+      {
+        "tissue": "Heart - Left Ventricle",
+        "score": 0.0641
+      },
+      {
+        "tissue": "Brain - Cerebellum",
+        "score": 0.051
+      },
+      {
+        "tissue": "Artery - Coronary",
+        "score": 0.0496
+      },
+      {
+        "tissue": "Pituitary",
+        "score": 0.0427
+      },
+      {
+        "tissue": "Esophagus - Mucosa",
+        "score": 0.0422
+      },
+      {
+        "tissue": "Colon - Sigmoid",
+        "score": 0.0392
+      },
+      {
+        "tissue": "Heart - Atrial Appendage",
+        "score": 0.0355
+      }
+    ],
+    "top10_betweenness": [
+      {
+        "tissue": "Liver",
+        "score": 0.01
+      },
+      {
+        "tissue": "Heart - Atrial Appendage",
+        "score": 0.0083
+      },
+      {
+        "tissue": "Whole Blood",
+        "score": 0.0083
+      },
+      {
+        "tissue": "Artery - Coronary",
+        "score": 0.005
+      },
+      {
+        "tissue": "Lung",
+        "score": 0.005
+      },
+      {
+        "tissue": "Pancreas",
+        "score": 0.005
+      },
+      {
+        "tissue": "Spleen",
+        "score": 0.0033
+      },
+      {
+        "tissue": "Stomach",
+        "score": 0.0
+      },
+      {
+        "tissue": "Skin - Not Sun Exposed (Suprapubic)",
+        "score": 0.0
+      },
+      {
+        "tissue": "Muscle - Skeletal",
+        "score": 0.0
+      }
+    ],
+    "all_out_degree": {
+      "Stomach": 0,
+      "Skin - Not Sun Exposed (Suprapubic)": 0.7822,
+      "Artery - Coronary": 0.2312,
+      "Muscle - Skeletal": 0.5391,
+      "Artery - Aorta": 0.3098,
+      "Pituitary": 0,
+      "Brain - Cerebellum": 0,
+      "Spleen": 0.464,
+      "Heart - Left Ventricle": 0,
+      "Skin - Sun Exposed (Lower leg)": 0.091,
+      "Artery - Tibial": 0.3728,
+      "Adipose - Visceral (Omentum)": 0.5464,
+      "Brain - Cortex": 0,
+      "Adrenal Gland": 0,
+      "Nerve - Tibial": 0,
+      "Small Intestine - Terminal Ileum": 0.7296,
+      "Adipose - Subcutaneous": 0.9026,
+      "Heart - Atrial Appendage": 0.4795,
+      "Lung": 0.5078,
+      "Liver": 0.1411,
+      "Whole Blood": 0.4543,
+      "Esophagus - Mucosa": 0,
+      "Colon - Sigmoid": 0,
+      "Pancreas": 0.5927,
+      "Colon - Transverse": 0.3873,
+      "Thyroid": 2.0142
+    },
+    "all_pagerank": {
+      "Stomach": 0.0276,
+      "Skin - Not Sun Exposed (Suprapubic)": 0.022,
+      "Artery - Coronary": 0.0496,
+      "Muscle - Skeletal": 0.022,
+      "Artery - Aorta": 0.022,
+      "Pituitary": 0.0427,
+      "Brain - Cerebellum": 0.051,
+      "Spleen": 0.034,
+      "Heart - Left Ventricle": 0.0641,
+      "Skin - Sun Exposed (Lower leg)": 0.022,
+      "Artery - Tibial": 0.022,
+      "Adipose - Visceral (Omentum)": 0.0267,
+      "Brain - Cortex": 0.1043,
+      "Adrenal Gland": 0.0945,
+      "Nerve - Tibial": 0.0295,
+      "Small Intestine - Terminal Ileum": 0.022,
+      "Adipose - Subcutaneous": 0.022,
+      "Heart - Atrial Appendage": 0.0355,
+      "Lung": 0.0345,
+      "Liver": 0.0706,
+      "Whole Blood": 0.0248,
+      "Esophagus - Mucosa": 0.0422,
+      "Colon - Sigmoid": 0.0392,
+      "Pancreas": 0.0316,
+      "Colon - Transverse": 0.022,
+      "Thyroid": 0.022
+    },
+    "all_betweenness": {
+      "Stomach": 0.0,
+      "Skin - Not Sun Exposed (Suprapubic)": 0.0,
+      "Artery - Coronary": 0.005,
+      "Muscle - Skeletal": 0.0,
+      "Artery - Aorta": 0.0,
+      "Pituitary": 0.0,
+      "Brain - Cerebellum": 0.0,
+      "Spleen": 0.0033,
+      "Heart - Left Ventricle": 0.0,
+      "Skin - Sun Exposed (Lower leg)": 0.0,
+      "Artery - Tibial": 0.0,
+      "Adipose - Visceral (Omentum)": 0.0,
+      "Brain - Cortex": 0.0,
+      "Adrenal Gland": 0.0,
+      "Nerve - Tibial": 0.0,
+      "Small Intestine - Terminal Ileum": 0.0,
+      "Adipose - Subcutaneous": 0.0,
+      "Heart - Atrial Appendage": 0.0083,
+      "Lung": 0.005,
+      "Liver": 0.01,
+      "Whole Blood": 0.0083,
+      "Esophagus - Mucosa": 0.0,
+      "Colon - Sigmoid": 0.0,
+      "Pancreas": 0.005,
+      "Colon - Transverse": 0.0,
+      "Thyroid": 0.0
+    }
+  },
+  "secretome": {
+    "nodes": 27,
+    "edges": 198,
+    "top10_out_degree": [
+      {
+        "tissue": "Adipose - Visceral (Omentum)",
+        "score": 1.0
+      },
+      {
+        "tissue": "Artery - Aorta",
+        "score": 1.0
+      },
+      {
+        "tissue": "Brain - Cerebellum",
+        "score": 1.0
+      },
+      {
+        "tissue": "Adipose - Subcutaneous",
+        "score": 1.0
+      },
+      {
+        "tissue": "Adrenal Gland",
+        "score": 1.0
+      },
+      {
+        "tissue": "Artery - Coronary",
+        "score": 1.0
+      },
+      {
+        "tissue": "Artery - Tibial",
+        "score": 1.0
+      },
+      {
+        "tissue": "Colon - Sigmoid",
+        "score": 1.0
+      },
+      {
+        "tissue": "Colon - Transverse",
+        "score": 1.0
+      },
+      {
+        "tissue": "Heart - Left Ventricle",
+        "score": 1.0
+      }
+    ],
+    "top10_pagerank": [
+      {
+        "tissue": "Skin - Not Sun Exposed (Suprapubic)",
+        "score": 0.0593
+      },
+      {
+        "tissue": "Esophagus - Mucosa",
+        "score": 0.0487
+      },
+      {
+        "tissue": "Pituitary",
+        "score": 0.0464
+      },
+      {
+        "tissue": "Spleen",
+        "score": 0.0463
+      },
+      {
+        "tissue": "Colon - Transverse",
+        "score": 0.0462
+      },
+      {
+        "tissue": "Colon - Sigmoid",
+        "score": 0.0449
+      },
+      {
+        "tissue": "Adipose - Visceral (Omentum)",
+        "score": 0.0449
+      },
+      {
+        "tissue": "Lung",
+        "score": 0.0444
+      },
+      {
+        "tissue": "Artery - Tibial",
+        "score": 0.0428
+      },
+      {
+        "tissue": "Thyroid",
+        "score": 0.0427
+      }
+    ],
+    "top10_betweenness": [
+      {
+        "tissue": "Spleen",
+        "score": 0.0628
+      },
+      {
+        "tissue": "Adipose - Visceral (Omentum)",
+        "score": 0.0587
+      },
+      {
+        "tissue": "Pituitary",
+        "score": 0.0524
+      },
+      {
+        "tissue": "Adrenal Gland",
+        "score": 0.0479
+      },
+      {
+        "tissue": "Liver",
+        "score": 0.0463
+      },
+      {
+        "tissue": "Lung",
+        "score": 0.0443
+      },
+      {
+        "tissue": "Thyroid",
+        "score": 0.0413
+      },
+      {
+        "tissue": "Brain - Cortex",
+        "score": 0.0378
+      },
+      {
+        "tissue": "Adipose - Subcutaneous",
+        "score": 0.0368
+      },
+      {
+        "tissue": "Colon - Sigmoid",
+        "score": 0.0353
+      }
+    ],
+    "all_out_degree": {
+      "Adipose - Subcutaneous": 1.0,
+      "Adipose - Visceral (Omentum)": 1.0,
+      "Adrenal Gland": 1.0,
+      "Artery - Aorta": 1.0,
+      "Artery - Coronary": 1.0,
+      "Artery - Tibial": 1.0,
+      "Brain - Cortex": 1.0,
+      "Brain - Cerebellum": 1.0,
+      "Colon - Sigmoid": 1.0,
+      "Colon - Transverse": 1.0,
+      "Esophagus - Mucosa": 1.0,
+      "Heart - Atrial Appendage": 1.0,
+      "Heart - Left Ventricle": 1.0,
+      "Kidney - Cortex": 1.0,
+      "Liver": 1.0,
+      "Lung": 1.0,
+      "Muscle - Skeletal": 1.0,
+      "Nerve - Tibial": 1.0,
+      "Pancreas": 1.0,
+      "Pituitary": 1.0,
+      "Skin - Not Sun Exposed (Suprapubic)": 1.0,
+      "Skin - Sun Exposed (Lower leg)": 1.0,
+      "Small Intestine - Terminal Ileum": 1.0,
+      "Spleen": 1.0,
+      "Stomach": 1.0,
+      "Thyroid": 1.0,
+      "Whole Blood": 1.0
+    },
+    "all_pagerank": {
+      "Adipose - Subcutaneous": 0.0323,
+      "Adipose - Visceral (Omentum)": 0.0449,
+      "Adrenal Gland": 0.0361,
+      "Artery - Aorta": 0.0308,
+      "Artery - Coronary": 0.0284,
+      "Artery - Tibial": 0.0428,
+      "Brain - Cortex": 0.0381,
+      "Brain - Cerebellum": 0.0384,
+      "Colon - Sigmoid": 0.0449,
+      "Colon - Transverse": 0.0462,
+      "Esophagus - Mucosa": 0.0487,
+      "Heart - Atrial Appendage": 0.0275,
+      "Heart - Left Ventricle": 0.0349,
+      "Kidney - Cortex": 0.0339,
+      "Liver": 0.032,
+      "Lung": 0.0444,
+      "Muscle - Skeletal": 0.0326,
+      "Nerve - Tibial": 0.038,
+      "Pancreas": 0.0273,
+      "Pituitary": 0.0464,
+      "Skin - Not Sun Exposed (Suprapubic)": 0.0593,
+      "Skin - Sun Exposed (Lower leg)": 0.0229,
+      "Small Intestine - Terminal Ileum": 0.0261,
+      "Spleen": 0.0463,
+      "Stomach": 0.042,
+      "Thyroid": 0.0427,
+      "Whole Blood": 0.012
+    },
+    "all_betweenness": {
+      "Adipose - Subcutaneous": 0.0368,
+      "Adipose - Visceral (Omentum)": 0.0587,
+      "Adrenal Gland": 0.0479,
+      "Artery - Aorta": 0.0267,
+      "Artery - Coronary": 0.0167,
+      "Artery - Tibial": 0.0345,
+      "Brain - Cortex": 0.0378,
+      "Brain - Cerebellum": 0.0209,
+      "Colon - Sigmoid": 0.0353,
+      "Colon - Transverse": 0.0336,
+      "Esophagus - Mucosa": 0.0349,
+      "Heart - Atrial Appendage": 0.0248,
+      "Heart - Left Ventricle": 0.026,
+      "Kidney - Cortex": 0.0244,
+      "Liver": 0.0463,
+      "Lung": 0.0443,
+      "Muscle - Skeletal": 0.0205,
+      "Nerve - Tibial": 0.0261,
+      "Pancreas": 0.0326,
+      "Pituitary": 0.0524,
+      "Skin - Not Sun Exposed (Suprapubic)": 0.0273,
+      "Skin - Sun Exposed (Lower leg)": 0.0118,
+      "Small Intestine - Terminal Ileum": 0.0139,
+      "Spleen": 0.0628,
+      "Stomach": 0.0335,
+      "Thyroid": 0.0413,
+      "Whole Blood": 0.0082
+    }
+  },
+  "integrated": {
+    "nodes": 27,
+    "edges": 222,
+    "top10_out_degree": [
+      {
+        "tissue": "Thyroid",
+        "score": 1.9019
+      },
+      {
+        "tissue": "Adipose - Subcutaneous",
+        "score": 1.0313
+      },
+      {
+        "tissue": "Small Intestine - Terminal Ileum",
+        "score": 1.0296
+      },
+      {
+        "tissue": "Skin - Not Sun Exposed (Suprapubic)",
+        "score": 1.0108
+      },
+      {
+        "tissue": "Muscle - Skeletal",
+        "score": 0.8391
+      },
+      {
+        "tissue": "Lung",
+        "score": 0.8078
+      },
+      {
+        "tissue": "Spleen",
+        "score": 0.764
+      },
+      {
+        "tissue": "Pancreas",
+        "score": 0.7293
+      },
+      {
+        "tissue": "Heart - Atrial Appendage",
+        "score": 0.6983
+      },
+      {
+        "tissue": "Adipose - Visceral (Omentum)",
+        "score": 0.6876
+      }
+    ],
+    "top10_pagerank": [
+      {
+        "tissue": "Adrenal Gland",
+        "score": 0.0602
+      },
+      {
+        "tissue": "Heart - Left Ventricle",
+        "score": 0.0565
+      },
+      {
+        "tissue": "Esophagus - Mucosa",
+        "score": 0.0549
+      },
+      {
+        "tissue": "Brain - Cortex",
+        "score": 0.053
+      },
+      {
+        "tissue": "Colon - Sigmoid",
+        "score": 0.0501
+      },
+      {
+        "tissue": "Brain - Cerebellum",
+        "score": 0.048
+      },
+      {
+        "tissue": "Liver",
+        "score": 0.0471
+      },
+      {
+        "tissue": "Pituitary",
+        "score": 0.0448
+      },
+      {
+        "tissue": "Adipose - Visceral (Omentum)",
+        "score": 0.0445
+      },
+      {
+        "tissue": "Lung",
+        "score": 0.0438
+      }
+    ],
+    "top10_betweenness": [
+      {
+        "tissue": "Liver",
+        "score": 0.0551
+      },
+      {
+        "tissue": "Adipose - Visceral (Omentum)",
+        "score": 0.0542
+      },
+      {
+        "tissue": "Spleen",
+        "score": 0.0493
+      },
+      {
+        "tissue": "Thyroid",
+        "score": 0.0451
+      },
+      {
+        "tissue": "Lung",
+        "score": 0.0415
+      },
+      {
+        "tissue": "Pituitary",
+        "score": 0.0399
+      },
+      {
+        "tissue": "Adrenal Gland",
+        "score": 0.0398
+      },
+      {
+        "tissue": "Brain - Cortex",
+        "score": 0.0392
+      },
+      {
+        "tissue": "Heart - Left Ventricle",
+        "score": 0.0373
+      },
+      {
+        "tissue": "Pancreas",
+        "score": 0.0321
+      }
+    ],
+    "all_out_degree": {
+      "Stomach": 0.3,
+      "Skin - Not Sun Exposed (Suprapubic)": 1.0108,
+      "Artery - Coronary": 0.5312,
+      "Muscle - Skeletal": 0.8391,
+      "Artery - Aorta": 0.5398,
+      "Pituitary": 0.3,
+      "Brain - Cerebellum": 0.3,
+      "Spleen": 0.764,
+      "Heart - Left Ventricle": 0.3,
+      "Skin - Sun Exposed (Lower leg)": 0.391,
+      "Artery - Tibial": 0.6446,
+      "Adipose - Visceral (Omentum)": 0.6876,
+      "Brain - Cortex": 0.3,
+      "Kidney - Cortex": 0.3,
+      "Adrenal Gland": 0.3,
+      "Nerve - Tibial": 0.3,
+      "Small Intestine - Terminal Ileum": 1.0296,
+      "Adipose - Subcutaneous": 1.0313,
+      "Heart - Atrial Appendage": 0.6983,
+      "Lung": 0.8078,
+      "Liver": 0.4411,
+      "Whole Blood": 0.5707,
+      "Esophagus - Mucosa": 0.3,
+      "Colon - Sigmoid": 0.3,
+      "Pancreas": 0.7293,
+      "Colon - Transverse": 0.6581,
+      "Thyroid": 1.9019
+    },
+    "all_pagerank": {
+      "Stomach": 0.0383,
+      "Skin - Not Sun Exposed (Suprapubic)": 0.0422,
+      "Artery - Coronary": 0.0397,
+      "Muscle - Skeletal": 0.0312,
+      "Artery - Aorta": 0.0227,
+      "Pituitary": 0.0448,
+      "Brain - Cerebellum": 0.048,
+      "Spleen": 0.0405,
+      "Heart - Left Ventricle": 0.0565,
+      "Skin - Sun Exposed (Lower leg)": 0.0183,
+      "Artery - Tibial": 0.0415,
+      "Adipose - Visceral (Omentum)": 0.0445,
+      "Brain - Cortex": 0.053,
+      "Kidney - Cortex": 0.0185,
+      "Adrenal Gland": 0.0602,
+      "Nerve - Tibial": 0.0299,
+      "Small Intestine - Terminal Ileum": 0.0227,
+      "Adipose - Subcutaneous": 0.0201,
+      "Heart - Atrial Appendage": 0.0274,
+      "Lung": 0.0438,
+      "Liver": 0.0471,
+      "Whole Blood": 0.012,
+      "Esophagus - Mucosa": 0.0549,
+      "Colon - Sigmoid": 0.0501,
+      "Pancreas": 0.0403,
+      "Colon - Transverse": 0.0211,
+      "Thyroid": 0.0305
+    },
+    "all_betweenness": {
+      "Stomach": 0.0248,
+      "Skin - Not Sun Exposed (Suprapubic)": 0.0273,
+      "Artery - Coronary": 0.0181,
+      "Muscle - Skeletal": 0.0203,
+      "Artery - Aorta": 0.022,
+      "Pituitary": 0.0399,
+      "Brain - Cerebellum": 0.0161,
+      "Spleen": 0.0493,
+      "Heart - Left Ventricle": 0.0373,
+      "Skin - Sun Exposed (Lower leg)": 0.0094,
+      "Artery - Tibial": 0.031,
+      "Adipose - Visceral (Omentum)": 0.0542,
+      "Brain - Cortex": 0.0392,
+      "Kidney - Cortex": 0.0175,
+      "Adrenal Gland": 0.0398,
+      "Nerve - Tibial": 0.0186,
+      "Small Intestine - Terminal Ileum": 0.0128,
+      "Adipose - Subcutaneous": 0.0274,
+      "Heart - Atrial Appendage": 0.0257,
+      "Lung": 0.0415,
+      "Liver": 0.0551,
+      "Whole Blood": 0.0069,
+      "Esophagus - Mucosa": 0.0274,
+      "Colon - Sigmoid": 0.0249,
+      "Pancreas": 0.0321,
+      "Colon - Transverse": 0.0209,
+      "Thyroid": 0.0451
+    }
+  },
+  "rank_comparisons": {
+    "causal_vs_secretome": {
+      "spearman_rho": NaN,
+      "p_value": NaN
+    },
+    "causal_vs_integrated": {
+      "spearman_rho": 0.9822,
+      "p_value": 6.2e-19
+    },
+    "secretome_vs_integrated": {
+      "spearman_rho": NaN,
+      "p_value": NaN
+    },
+    "n_common_nodes": 26
+  }
+}

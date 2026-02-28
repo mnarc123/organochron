@@ -1,0 +1,158 @@
+{
+  "Adipose - Subcutaneous": {
+    "NES": 0.7339938751660409,
+    "FDR": 0.9819819819819819,
+    "pval": 0.9819819819819819,
+    "n_overlap": 276
+  },
+  "Adipose - Visceral (Omentum)": {
+    "NES": 0.7155159177292719,
+    "FDR": 0.999,
+    "pval": 0.999,
+    "n_overlap": 280
+  },
+  "Adrenal Gland": {
+    "NES": 0.9107080378455777,
+    "FDR": 0.8198198198198198,
+    "pval": 0.8198198198198198,
+    "n_overlap": 275
+  },
+  "Artery - Aorta": {
+    "NES": -1.5830401001346246,
+    "FDR": 0.0,
+    "pval": 0.0,
+    "n_overlap": 273
+  },
+  "Artery - Coronary": {
+    "NES": -1.2595933183574137,
+    "FDR": 0.00641025641025641,
+    "pval": 0.00641025641025641,
+    "n_overlap": 278
+  },
+  "Artery - Tibial": {
+    "NES": -1.046279379765116,
+    "FDR": 0.3,
+    "pval": 0.3,
+    "n_overlap": 273
+  },
+  "Brain - Cerebellum": {
+    "NES": -1.0747068815889285,
+    "FDR": 0.238,
+    "pval": 0.238,
+    "n_overlap": 264
+  },
+  "Brain - Cortex": {
+    "NES": -0.9308325128816922,
+    "FDR": 0.707,
+    "pval": 0.707,
+    "n_overlap": 264
+  },
+  "Colon - Sigmoid": {
+    "NES": -1.1974224061852892,
+    "FDR": 0.0,
+    "pval": 0.0,
+    "n_overlap": 272
+  },
+  "Colon - Transverse": {
+    "NES": 1.161672604971477,
+    "FDR": 0.15508684863523572,
+    "pval": 0.15508684863523572,
+    "n_overlap": 279
+  },
+  "Esophagus - Mucosa": {
+    "NES": 0.7330297047633457,
+    "FDR": 0.970970970970971,
+    "pval": 0.970970970970971,
+    "n_overlap": 276
+  },
+  "Heart - Atrial Appendage": {
+    "NES": 1.1814216625696399,
+    "FDR": 0.06,
+    "pval": 0.06,
+    "n_overlap": 264
+  },
+  "Heart - Left Ventricle": {
+    "NES": -1.0045510664260855,
+    "FDR": 0.475,
+    "pval": 0.475,
+    "n_overlap": 257
+  },
+  "Liver": {
+    "NES": -1.647566091432977,
+    "FDR": 0.0,
+    "pval": 0.0,
+    "n_overlap": 261
+  },
+  "Lung": {
+    "NES": 1.1113162032878672,
+    "FDR": 0.1875,
+    "pval": 0.1875,
+    "n_overlap": 284
+  },
+  "Muscle - Skeletal": {
+    "NES": 1.0736786783770382,
+    "FDR": 0.24,
+    "pval": 0.24,
+    "n_overlap": 258
+  },
+  "Nerve - Tibial": {
+    "NES": 1.123177274731112,
+    "FDR": 0.19808306709265175,
+    "pval": 0.19808306709265175,
+    "n_overlap": 276
+  },
+  "Pancreas": {
+    "NES": 0.8284691699327896,
+    "FDR": 0.886,
+    "pval": 0.886,
+    "n_overlap": 257
+  },
+  "Pituitary": {
+    "NES": -1.0074281088982935,
+    "FDR": 0.452,
+    "pval": 0.452,
+    "n_overlap": 283
+  },
+  "Skin - Not Sun Exposed (Suprapubic)": {
+    "NES": 1.0671889898466755,
+    "FDR": 0.286,
+    "pval": 0.286,
+    "n_overlap": 279
+  },
+  "Skin - Sun Exposed (Lower leg)": {
+    "NES": 1.0903647225891384,
+    "FDR": 0.205,
+    "pval": 0.205,
+    "n_overlap": 279
+  },
+  "Small Intestine - Terminal Ileum": {
+    "NES": -1.0063606164507493,
+    "FDR": 0.469,
+    "pval": 0.469,
+    "n_overlap": 287
+  },
+  "Spleen": {
+    "NES": 0.8026087069521817,
+    "FDR": 0.92,
+    "pval": 0.92,
+    "n_overlap": 278
+  },
+  "Stomach": {
+    "NES": -1.1861628591595714,
+    "FDR": 0.032,
+    "pval": 0.032,
+    "n_overlap": 276
+  },
+  "Thyroid": {
+    "NES": -1.3690823195016182,
+    "FDR": 0.007633587786259542,
+    "pval": 0.007633587786259542,
+    "n_overlap": 279
+  },
+  "Whole Blood": {
+    "NES": -0.6418164433640744,
+    "FDR": 0.998,
+    "pval": 0.998,
+    "n_overlap": 244
+  }
+}

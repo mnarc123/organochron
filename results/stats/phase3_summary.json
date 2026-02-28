@@ -1,0 +1,75 @@
+{
+  "pacemaker_organs": [
+    "Small Intestine - Terminal Ileum",
+    "Skin - Not Sun Exposed (Suprapubic)",
+    "Muscle - Skeletal",
+    "Adipose - Subcutaneous",
+    "Thyroid"
+  ],
+  "top5_hub_score": [
+    {
+      "tissue": "Thyroid",
+      "hub_score": 0.6543137254901962
+    },
+    {
+      "tissue": "Skin - Not Sun Exposed (Suprapubic)",
+      "hub_score": 0.42624731998638815
+    },
+    {
+      "tissue": "Small Intestine - Terminal Ileum",
+      "hub_score": 0.36076472980767227
+    },
+    {
+      "tissue": "Muscle - Skeletal",
+      "hub_score": 0.34917214228009563
+    },
+    {
+      "tissue": "Adipose - Subcutaneous",
+      "hub_score": 0.34902448780031115
+    }
+  ],
+  "top5_tci": [
+    {
+      "tissue": "Thyroid",
+      "TCI": 2.114392364206126
+    },
+    {
+      "tissue": "Skin - Not Sun Exposed (Suprapubic)",
+      "TCI": 1.0699753032750785
+    },
+    {
+      "tissue": "Small Intestine - Terminal Ileum",
+      "TCI": 1.0353991276977283
+    },
+    {
+      "tissue": "Adipose - Subcutaneous",
+      "TCI": 1.0217819013007607
+    },
+    {
+      "tissue": "Muscle - Skeletal",
+      "TCI": 0.9142067497619407
+    }
+  ],
+  "bootstrap_top3_frequency": [
+    {
+      "tissue": "Thyroid",
+      "top3_frequency": 1.0
+    },
+    {
+      "tissue": "Skin - Not Sun Exposed (Suprapubic)",
+      "top3_frequency": 0.4
+    },
+    {
+      "tissue": "Adipose - Visceral (Omentum)",
+      "top3_frequency": 0.24
+    },
+    {
+      "tissue": "Muscle - Skeletal",
+      "top3_frequency": 0.21
+    },
+    {
+      "tissue": "Small Intestine - Terminal Ileum",
+      "top3_frequency": 0.205
+    }
+  ]
+}

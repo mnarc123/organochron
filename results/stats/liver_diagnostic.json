@@ -1,0 +1,20 @@
+{
+  "n_samples": 226,
+  "age_distribution": {
+    "25": 7,
+    "35": 17,
+    "45": 35,
+    "55": 83,
+    "65": 79,
+    "75": 5
+  },
+  "n_total_genes": 15434,
+  "n_aging_genes": 7,
+  "spearman_sig": 5,
+  "huber_sig": 5,
+  "n_rho_gt_015": 644,
+  "n_raw_p_lt_005": 1114,
+  "n_raw_both": 644,
+  "median_abs_rho": 0.0467694353022224,
+  "explanation": "Liver has 644 genes with |rho|>0.15 but only 7 pass both FDR correction AND effect size threshold. The highly imbalanced age distribution (83% of samples in decades 45-65) compresses the effective age range, yielding small Spearman correlations. After BH correction over ~15K genes, almost none survive. The liver likely undergoes aging through many small-effect transcriptional changes rather than few large ones, consistent with its high regenerative capacity."
+}

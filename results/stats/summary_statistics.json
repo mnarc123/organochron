@@ -1,0 +1,47 @@
+{
+  "pipeline_version": "1.0.0",
+  "elapsed_seconds": 239.5,
+  "n_tissues": 26,
+  "n_aging_genes_total": 89987,
+  "integrated_graph_edges": 222,
+  "pacemaker_organs": [
+    "Small Intestine - Terminal Ileum",
+    "Skin - Not Sun Exposed (Suprapubic)",
+    "Muscle - Skeletal",
+    "Adipose - Subcutaneous",
+    "Thyroid"
+  ],
+  "top_5_drugs": [
+    {
+      "drug": "baricitinib",
+      "CRS_global": 2.9725943838051334,
+      "best_tissue": "Skin - Not Sun Exposed (Suprapubic)"
+    },
+    {
+      "drug": "aspirin",
+      "CRS_global": 2.8249317335954505,
+      "best_tissue": "Skin - Not Sun Exposed (Suprapubic)"
+    },
+    {
+      "drug": "ramipril",
+      "CRS_global": 2.7491319344785556,
+      "best_tissue": "Esophagus - Mucosa"
+    },
+    {
+      "drug": "rosuvastatin",
+      "CRS_global": 2.5724708941665035,
+      "best_tissue": "Muscle - Skeletal"
+    },
+    {
+      "drug": "canagliflozin",
+      "CRS_global": 2.507017564830039,
+      "best_tissue": "Skin - Not Sun Exposed (Suprapubic)"
+    }
+  ],
+  "validation": {
+    "cv_jaccard": 0.6840051375821485,
+    "holdout_r": 0.2664722850835075,
+    "permutation_p": 0.0,
+    "genage_significant_tissues": 0
+  }
+}

@@ -1,0 +1,274 @@
+{
+  "gliclazide": {
+    "targets": [
+      "ABCC8",
+      "KCNJ11"
+    ],
+    "target_tissue": "Thyroid",
+    "target_modules": [
+      78
+    ],
+    "downstream_tissues": [
+      {
+        "tissue": "Adipose - Visceral (Omentum)",
+        "weight": 0.5144986939660657,
+        "confidence": 0.7
+      },
+      {
+        "tissue": "Colon - Sigmoid",
+        "weight": 0.30734046582508573,
+        "confidence": 0.7
+      },
+      {
+        "tissue": "Whole Blood",
+        "weight": 0.3059357542065435,
+        "confidence": 0.7
+      },
+      {
+        "tissue": "Lung",
+        "weight": 0.27485259597465517,
+        "confidence": 1.0
+      },
+      {
+        "tissue": "Adrenal Gland",
+        "weight": 0.24553207394281473,
+        "confidence": 1.0
+      },
+      {
+        "tissue": "Artery - Aorta",
+        "weight": 0.046891860598889286,
+        "confidence": 0.3
+      },
+      {
+        "tissue": "Nerve - Tibial",
+        "weight": 0.04599391358046431,
+        "confidence": 0.3
+      },
+      {
+        "tissue": "Spleen",
+        "weight": 0.04581213372426814,
+        "confidence": 0.3
+      },
+      {
+        "tissue": "Brain - Cortex",
+        "weight": 0.03967351407060732,
+        "confidence": 0.3
+      },
+      {
+        "tissue": "Pituitary",
+        "weight": 0.03935785248474036,
+        "confidence": 0.3
+      }
+    ],
+    "narrative": "Gliclazide (originally indicated for: Type 2 diabetes) targets ABCC8, KCNJ11 in Thyroid, affecting 1 aging-associated co-expression modules. Through the causal inter-organ graph, reversal of aging signatures in Thyroid is predicted to cascade to Adipose - Visceral (Omentum), Colon - Sigmoid, Whole Blood. The Cascade Reversal Score of 2.862 suggests potential for systemic anti-aging effects via targeted intervention in Thyroid.",
+    "CRS_global": 2.8624906068062486
+  },
+  "dexamethasone": {
+    "targets": [
+      "NR3C1"
+    ],
+    "target_tissue": "Heart - Atrial Appendage",
+    "target_modules": [
+      73
+    ],
+    "downstream_tissues": [
+      {
+        "tissue": "Artery - Coronary",
+        "weight": 0.25857147470742525,
+        "confidence": 0.7
+      },
+      {
+        "tissue": "Esophagus - Mucosa",
+        "weight": 0.18373505101780122,
+        "confidence": 1.0
+      },
+      {
+        "tissue": "Liver",
+        "weight": 0.06459995053000957,
+        "confidence": 0.3
+      },
+      {
+        "tissue": "Pituitary",
+        "weight": 0.052501781157911,
+        "confidence": 0.3
+      },
+      {
+        "tissue": "Artery - Aorta",
+        "weight": 0.044210952346553326,
+        "confidence": 0.3
+      },
+      {
+        "tissue": "Colon - Transverse",
+        "weight": 0.042220226922273084,
+        "confidence": 0.3
+      },
+      {
+        "tissue": "Thyroid",
+        "weight": 0.027077078653046923,
+        "confidence": 0.3
+      },
+      {
+        "tissue": "Nerve - Tibial",
+        "weight": 0.025431509076892896,
+        "confidence": 0.3
+      }
+    ],
+    "narrative": "Dexamethasone (originally indicated for: Inflammation) targets NR3C1 in Heart - Atrial Appendage, affecting 1 aging-associated co-expression modules. Through the causal inter-organ graph, reversal of aging signatures in Heart - Atrial Appendage is predicted to cascade to Artery - Coronary, Esophagus - Mucosa, Liver. The Cascade Reversal Score of 2.631 suggests potential for systemic anti-aging effects via targeted intervention in Heart - Atrial Appendage.",
+    "CRS_global": 2.631039605806301
+  },
+  "pioglitazone": {
+    "targets": [
+      "PPARG"
+    ],
+    "target_tissue": "Heart - Atrial Appendage",
+    "target_modules": [],
+    "downstream_tissues": [
+      {
+        "tissue": "Artery - Coronary",
+        "weight": 0.25857147470742525,
+        "confidence": 0.7
+      },
+      {
+        "tissue": "Esophagus - Mucosa",
+        "weight": 0.18373505101780122,
+        "confidence": 1.0
+      },
+      {
+        "tissue": "Liver",
+        "weight": 0.06459995053000957,
+        "confidence": 0.3
+      },
+      {
+        "tissue": "Pituitary",
+        "weight": 0.052501781157911,
+        "confidence": 0.3
+      },
+      {
+        "tissue": "Artery - Aorta",
+        "weight": 0.044210952346553326,
+        "confidence": 0.3
+      },
+      {
+        "tissue": "Colon - Transverse",
+        "weight": 0.042220226922273084,
+        "confidence": 0.3
+      },
+      {
+        "tissue": "Thyroid",
+        "weight": 0.027077078653046923,
+        "confidence": 0.3
+      },
+      {
+        "tissue": "Nerve - Tibial",
+        "weight": 0.025431509076892896,
+        "confidence": 0.3
+      }
+    ],
+    "narrative": "Pioglitazone (originally indicated for: Type 2 diabetes) targets PPARG in Heart - Atrial Appendage, affecting no identified modules. Through the causal inter-organ graph, reversal of aging signatures in Heart - Atrial Appendage is predicted to cascade to Artery - Coronary, Esophagus - Mucosa, Liver. The Cascade Reversal Score of 2.521 suggests potential for systemic anti-aging effects via targeted intervention in Heart - Atrial Appendage.",
+    "CRS_global": 2.520994881218904
+  },
+  "atorvastatin": {
+    "targets": [
+      "HMGCR"
+    ],
+    "target_tissue": "Heart - Atrial Appendage",
+    "target_modules": [],
+    "downstream_tissues": [
+      {
+        "tissue": "Artery - Coronary",
+        "weight": 0.25857147470742525,
+        "confidence": 0.7
+      },
+      {
+        "tissue": "Esophagus - Mucosa",
+        "weight": 0.18373505101780122,
+        "confidence": 1.0
+      },
+      {
+        "tissue": "Liver",
+        "weight": 0.06459995053000957,
+        "confidence": 0.3
+      },
+      {
+        "tissue": "Pituitary",
+        "weight": 0.052501781157911,
+        "confidence": 0.3
+      },
+      {
+        "tissue": "Artery - Aorta",
+        "weight": 0.044210952346553326,
+        "confidence": 0.3
+      },
+      {
+        "tissue": "Colon - Transverse",
+        "weight": 0.042220226922273084,
+        "confidence": 0.3
+      },
+      {
+        "tissue": "Thyroid",
+        "weight": 0.027077078653046923,
+        "confidence": 0.3
+      },
+      {
+        "tissue": "Nerve - Tibial",
+        "weight": 0.025431509076892896,
+        "confidence": 0.3
+      }
+    ],
+    "narrative": "Atorvastatin (originally indicated for: Hypercholesterolemia) targets HMGCR in Heart - Atrial Appendage, affecting no identified modules. Through the causal inter-organ graph, reversal of aging signatures in Heart - Atrial Appendage is predicted to cascade to Artery - Coronary, Esophagus - Mucosa, Liver. The Cascade Reversal Score of 2.444 suggests potential for systemic anti-aging effects via targeted intervention in Heart - Atrial Appendage.",
+    "CRS_global": 2.443745666996622
+  },
+  "digoxin": {
+    "targets": [
+      "ATP1A1"
+    ],
+    "target_tissue": "Heart - Atrial Appendage",
+    "target_modules": [
+      84
+    ],
+    "downstream_tissues": [
+      {
+        "tissue": "Artery - Coronary",
+        "weight": 0.25857147470742525,
+        "confidence": 0.7
+      },
+      {
+        "tissue": "Esophagus - Mucosa",
+        "weight": 0.18373505101780122,
+        "confidence": 1.0
+      },
+      {
+        "tissue": "Liver",
+        "weight": 0.06459995053000957,
+        "confidence": 0.3
+      },
+      {
+        "tissue": "Pituitary",
+        "weight": 0.052501781157911,
+        "confidence": 0.3
+      },
+      {
+        "tissue": "Artery - Aorta",
+        "weight": 0.044210952346553326,
+        "confidence": 0.3
+      },
+      {
+        "tissue": "Colon - Transverse",
+        "weight": 0.042220226922273084,
+        "confidence": 0.3
+      },
+      {
+        "tissue": "Thyroid",
+        "weight": 0.027077078653046923,
+        "confidence": 0.3
+      },
+      {
+        "tissue": "Nerve - Tibial",
+        "weight": 0.025431509076892896,
+        "confidence": 0.3
+      }
+    ],
+    "narrative": "Digoxin (originally indicated for: Heart failure) targets ATP1A1 in Heart - Atrial Appendage, affecting 1 aging-associated co-expression modules. Through the causal inter-organ graph, reversal of aging signatures in Heart - Atrial Appendage is predicted to cascade to Artery - Coronary, Esophagus - Mucosa, Liver. The Cascade Reversal Score of 2.262 suggests potential for systemic anti-aging effects via targeted intervention in Heart - Atrial Appendage.",
+    "CRS_global": 2.261968657141753
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "n_drugs_scored": 17112,
+  "n_approved_candidates": 20,
+  "drugage_overlap": 7,
+  "top_5_drugs": [
+    {
+      "drug": "gliclazide",
+      "CRS_global": 2.8624906068062486,
+      "best_tissue": "Thyroid"
+    },
+    {
+      "drug": "dexamethasone",
+      "CRS_global": 2.631039605806301,
+      "best_tissue": "Heart - Atrial Appendage"
+    },
+    {
+      "drug": "pioglitazone",
+      "CRS_global": 2.520994881218904,
+      "best_tissue": "Heart - Atrial Appendage"
+    },
+    {
+      "drug": "atorvastatin",
+      "CRS_global": 2.443745666996622,
+      "best_tissue": "Heart - Atrial Appendage"
+    },
+    {
+      "drug": "digoxin",
+      "CRS_global": 2.261968657141753,
+      "best_tissue": "Heart - Atrial Appendage"
+    }
+  ],
+  "mechanisms_summary": {
+    "gliclazide": {
+      "targets": [
+        "ABCC8",
+        "KCNJ11"
+      ],
+      "tissue": "Thyroid"
+    },
+    "dexamethasone": {
+      "targets": [
+        "NR3C1"
+      ],
+      "tissue": "Heart - Atrial Appendage"
+    },
+    "pioglitazone": {
+      "targets": [
+        "PPARG"
+      ],
+      "tissue": "Heart - Atrial Appendage"
+    },
+    "atorvastatin": {
+      "targets": [
+        "HMGCR"
+      ],
+      "tissue": "Heart - Atrial Appendage"
+    },
+    "digoxin": {
+      "targets": [
+        "ATP1A1"
+      ],
+      "tissue": "Heart - Atrial Appendage"
+    }
+  },
+  "drugage_hypergeom_p": 8.735456690538748e-05,
+  "drugage_overlap_n": 7,
+  "total_drugs_scored": 17112,
+  "data_source": "real_LINCS_L1000_GSE92742"
+}

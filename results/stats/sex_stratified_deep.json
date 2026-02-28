@@ -1,0 +1,356 @@
+{
+  "male_n_subjects": 653,
+  "female_n_subjects": 326,
+  "male_edges": 84,
+  "female_edges": 78,
+  "shared_edges": 44,
+  "male_only_n": 40,
+  "female_only_n": 34,
+  "jaccard": 0.3728813559322034,
+  "male_only_list": [
+    {
+      "source": "Adipose - Subcutaneous",
+      "target": "Brain - Cerebellum"
+    },
+    {
+      "source": "Adipose - Subcutaneous",
+      "target": "Brain - Cortex"
+    },
+    {
+      "source": "Adipose - Subcutaneous",
+      "target": "Spleen"
+    },
+    {
+      "source": "Adipose - Visceral (Omentum)",
+      "target": "Adrenal Gland"
+    },
+    {
+      "source": "Adipose - Visceral (Omentum)",
+      "target": "Artery - Aorta"
+    },
+    {
+      "source": "Adipose - Visceral (Omentum)",
+      "target": "Heart - Left Ventricle"
+    },
+    {
+      "source": "Adipose - Visceral (Omentum)",
+      "target": "Spleen"
+    },
+    {
+      "source": "Adrenal Gland",
+      "target": "Artery - Aorta"
+    },
+    {
+      "source": "Adrenal Gland",
+      "target": "Heart - Left Ventricle"
+    },
+    {
+      "source": "Adrenal Gland",
+      "target": "Nerve - Tibial"
+    },
+    {
+      "source": "Artery - Aorta",
+      "target": "Colon - Sigmoid"
+    },
+    {
+      "source": "Artery - Aorta",
+      "target": "Heart - Left Ventricle"
+    },
+    {
+      "source": "Artery - Aorta",
+      "target": "Nerve - Tibial"
+    },
+    {
+      "source": "Artery - Aorta",
+      "target": "Skin - Not Sun Exposed (Suprapubic)"
+    },
+    {
+      "source": "Artery - Aorta",
+      "target": "Whole Blood"
+    },
+    {
+      "source": "Artery - Coronary",
+      "target": "Heart - Left Ventricle"
+    },
+    {
+      "source": "Artery - Tibial",
+      "target": "Muscle - Skeletal"
+    },
+    {
+      "source": "Brain - Cerebellum",
+      "target": "Pituitary"
+    },
+    {
+      "source": "Brain - Cortex",
+      "target": "Pituitary"
+    },
+    {
+      "source": "Colon - Sigmoid",
+      "target": "Heart - Left Ventricle"
+    },
+    {
+      "source": "Colon - Sigmoid",
+      "target": "Pituitary"
+    },
+    {
+      "source": "Colon - Sigmoid",
+      "target": "Whole Blood"
+    },
+    {
+      "source": "Colon - Transverse",
+      "target": "Lung"
+    },
+    {
+      "source": "Colon - Transverse",
+      "target": "Muscle - Skeletal"
+    },
+    {
+      "source": "Esophagus - Mucosa",
+      "target": "Lung"
+    },
+    {
+      "source": "Heart - Atrial Appendage",
+      "target": "Pituitary"
+    },
+    {
+      "source": "Heart - Atrial Appendage",
+      "target": "Thyroid"
+    },
+    {
+      "source": "Heart - Left Ventricle",
+      "target": "Small Intestine - Terminal Ileum"
+    },
+    {
+      "source": "Heart - Left Ventricle",
+      "target": "Whole Blood"
+    },
+    {
+      "source": "Liver",
+      "target": "Thyroid"
+    },
+    {
+      "source": "Lung",
+      "target": "Spleen"
+    },
+    {
+      "source": "Muscle - Skeletal",
+      "target": "Nerve - Tibial"
+    },
+    {
+      "source": "Muscle - Skeletal",
+      "target": "Skin - Sun Exposed (Lower leg)"
+    },
+    {
+      "source": "Nerve - Tibial",
+      "target": "Pancreas"
+    },
+    {
+      "source": "Pancreas",
+      "target": "Skin - Not Sun Exposed (Suprapubic)"
+    },
+    {
+      "source": "Pancreas",
+      "target": "Skin - Sun Exposed (Lower leg)"
+    },
+    {
+      "source": "Pancreas",
+      "target": "Small Intestine - Terminal Ileum"
+    },
+    {
+      "source": "Pituitary",
+      "target": "Whole Blood"
+    },
+    {
+      "source": "Skin - Not Sun Exposed (Suprapubic)",
+      "target": "Whole Blood"
+    },
+    {
+      "source": "Spleen",
+      "target": "Thyroid"
+    }
+  ],
+  "female_only_list": [
+    {
+      "source": "Adipose - Subcutaneous",
+      "target": "Adrenal Gland"
+    },
+    {
+      "source": "Adipose - Subcutaneous",
+      "target": "Artery - Tibial"
+    },
+    {
+      "source": "Adipose - Subcutaneous",
+      "target": "Heart - Atrial Appendage"
+    },
+    {
+      "source": "Adipose - Subcutaneous",
+      "target": "Muscle - Skeletal"
+    },
+    {
+      "source": "Adipose - Subcutaneous",
+      "target": "Skin - Not Sun Exposed (Suprapubic)"
+    },
+    {
+      "source": "Adipose - Subcutaneous",
+      "target": "Whole Blood"
+    },
+    {
+      "source": "Adipose - Visceral (Omentum)",
+      "target": "Muscle - Skeletal"
+    },
+    {
+      "source": "Adipose - Visceral (Omentum)",
+      "target": "Stomach"
+    },
+    {
+      "source": "Adipose - Visceral (Omentum)",
+      "target": "Whole Blood"
+    },
+    {
+      "source": "Artery - Aorta",
+      "target": "Heart - Atrial Appendage"
+    },
+    {
+      "source": "Artery - Aorta",
+      "target": "Pituitary"
+    },
+    {
+      "source": "Artery - Aorta",
+      "target": "Spleen"
+    },
+    {
+      "source": "Artery - Tibial",
+      "target": "Heart - Atrial Appendage"
+    },
+    {
+      "source": "Brain - Cerebellum",
+      "target": "Heart - Left Ventricle"
+    },
+    {
+      "source": "Brain - Cerebellum",
+      "target": "Lung"
+    },
+    {
+      "source": "Colon - Sigmoid",
+      "target": "Colon - Transverse"
+    },
+    {
+      "source": "Colon - Transverse",
+      "target": "Heart - Left Ventricle"
+    },
+    {
+      "source": "Colon - Transverse",
+      "target": "Stomach"
+    },
+    {
+      "source": "Esophagus - Mucosa",
+      "target": "Heart - Atrial Appendage"
+    },
+    {
+      "source": "Esophagus - Mucosa",
+      "target": "Skin - Not Sun Exposed (Suprapubic)"
+    },
+    {
+      "source": "Esophagus - Mucosa",
+      "target": "Skin - Sun Exposed (Lower leg)"
+    },
+    {
+      "source": "Heart - Atrial Appendage",
+      "target": "Skin - Not Sun Exposed (Suprapubic)"
+    },
+    {
+      "source": "Heart - Left Ventricle",
+      "target": "Pancreas"
+    },
+    {
+      "source": "Heart - Left Ventricle",
+      "target": "Spleen"
+    },
+    {
+      "source": "Liver",
+      "target": "Whole Blood"
+    },
+    {
+      "source": "Lung",
+      "target": "Stomach"
+    },
+    {
+      "source": "Muscle - Skeletal",
+      "target": "Thyroid"
+    },
+    {
+      "source": "Muscle - Skeletal",
+      "target": "Whole Blood"
+    },
+    {
+      "source": "Nerve - Tibial",
+      "target": "Skin - Not Sun Exposed (Suprapubic)"
+    },
+    {
+      "source": "Nerve - Tibial",
+      "target": "Stomach"
+    },
+    {
+      "source": "Pituitary",
+      "target": "Thyroid"
+    },
+    {
+      "source": "Skin - Not Sun Exposed (Suprapubic)",
+      "target": "Stomach"
+    },
+    {
+      "source": "Skin - Sun Exposed (Lower leg)",
+      "target": "Thyroid"
+    },
+    {
+      "source": "Stomach",
+      "target": "Thyroid"
+    }
+  ],
+  "male_top5_hubs": [
+    {
+      "tissue": "Thyroid",
+      "out_degree": 4.8787
+    },
+    {
+      "tissue": "Lung",
+      "out_degree": 4.5237
+    },
+    {
+      "tissue": "Adipose - Visceral (Omentum)",
+      "out_degree": 4.1122
+    },
+    {
+      "tissue": "Colon - Sigmoid",
+      "out_degree": 3.518
+    },
+    {
+      "tissue": "Heart - Left Ventricle",
+      "out_degree": 2.9387
+    }
+  ],
+  "female_top5_hubs": [
+    {
+      "tissue": "Thyroid",
+      "out_degree": 6.0482
+    },
+    {
+      "tissue": "Adipose - Visceral (Omentum)",
+      "out_degree": 4.2201
+    },
+    {
+      "tissue": "Lung",
+      "out_degree": 4.203
+    },
+    {
+      "tissue": "Adipose - Subcutaneous",
+      "out_degree": 3.8324
+    },
+    {
+      "tissue": "Colon - Sigmoid",
+      "out_degree": 3.7035
+    }
+  ],
+  "hormonal_in_male_only": 12,
+  "hormonal_in_female_only": 6
+}
