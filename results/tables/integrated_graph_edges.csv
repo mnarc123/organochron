@@ -1,0 +1,223 @@
+source,target,weight,confidence,source_type
+Heart - Left Ventricle,Heart - Atrial Appendage,0.04798261692269175,0.3,secretome_only
+Heart - Left Ventricle,Pituitary,0.02290716133221946,0.3,secretome_only
+Heart - Left Ventricle,Artery - Tibial,0.04833490503561826,0.3,secretome_only
+Heart - Left Ventricle,Nerve - Tibial,0.063701571286516,0.3,secretome_only
+Heart - Left Ventricle,Muscle - Skeletal,0.04465320000676962,0.3,secretome_only
+Heart - Left Ventricle,Adrenal Gland,0.020479357249628367,0.3,secretome_only
+Heart - Left Ventricle,Esophagus - Mucosa,0.029117785717579028,0.3,secretome_only
+Heart - Left Ventricle,Colon - Sigmoid,0.02282340244897749,0.3,secretome_only
+Artery - Coronary,Adrenal Gland,0.23119910208285638,0.7,causal_only
+Artery - Coronary,Nerve - Tibial,0.03739018602260247,0.3,secretome_only
+Artery - Coronary,Liver,0.03112616900173444,0.3,secretome_only
+Artery - Coronary,Adipose - Visceral (Omentum),0.09111145192398115,0.3,secretome_only
+Artery - Coronary,Lung,0.060029615562305585,0.3,secretome_only
+Artery - Coronary,Skin - Sun Exposed (Lower leg),0.030180045089731933,0.3,secretome_only
+Artery - Coronary,Pancreas,0.05016253239964442,0.3,secretome_only
+Nerve - Tibial,Brain - Cerebellum,0.060473431650090656,0.3,secretome_only
+Nerve - Tibial,Spleen,0.08735433150646607,0.3,secretome_only
+Nerve - Tibial,Heart - Atrial Appendage,0.04968568199673188,0.3,secretome_only
+Nerve - Tibial,Skin - Not Sun Exposed (Suprapubic),0.07441796804488764,0.3,secretome_only
+Nerve - Tibial,Colon - Transverse,0.028068586801823725,0.3,secretome_only
+Spleen,Heart - Left Ventricle,0.2286235278751858,0.7,causal_only
+Spleen,Brain - Cerebellum,0.23533051954580922,0.7,causal_only
+Spleen,Skin - Not Sun Exposed (Suprapubic),0.0466238531564718,0.3,secretome_only
+Spleen,Brain - Cortex,0.02548137430447185,0.3,secretome_only
+Spleen,Whole Blood,0.019891996467738458,0.3,secretome_only
+Spleen,Adrenal Gland,0.03795999585437899,0.3,secretome_only
+Spleen,Adipose - Subcutaneous,0.04161310378400222,0.3,secretome_only
+Spleen,Lung,0.05113504719368306,0.3,secretome_only
+Spleen,Kidney - Cortex,0.054900493200930565,0.3,secretome_only
+Spleen,Skin - Sun Exposed (Lower leg),0.02239413603832303,0.3,secretome_only
+Kidney - Cortex,Skin - Sun Exposed (Lower leg),0.024946134585124586,0.3,secretome_only
+Kidney - Cortex,Adipose - Subcutaneous,0.028006881581023563,0.3,secretome_only
+Kidney - Cortex,Artery - Tibial,0.04847336629504271,0.3,secretome_only
+Kidney - Cortex,Nerve - Tibial,0.04508002549223489,0.3,secretome_only
+Kidney - Cortex,Stomach,0.024959629115275005,0.3,secretome_only
+Kidney - Cortex,Adrenal Gland,0.03461040859081485,0.3,secretome_only
+Kidney - Cortex,Thyroid,0.0441244702206977,0.3,secretome_only
+Kidney - Cortex,Lung,0.049799084119786695,0.3,secretome_only
+Brain - Cortex,Small Intestine - Terminal Ileum,0.05486984372335984,0.3,secretome_only
+Brain - Cortex,Colon - Sigmoid,0.06613792376259305,0.3,secretome_only
+Brain - Cortex,Heart - Atrial Appendage,0.025760538853948977,0.3,secretome_only
+Brain - Cortex,Artery - Tibial,0.04023791136484894,0.3,secretome_only
+Brain - Cortex,Stomach,0.0609914850467595,0.3,secretome_only
+Brain - Cortex,Artery - Aorta,0.05200229724848962,0.3,secretome_only
+Colon - Transverse,Heart - Left Ventricle,0.15523625164500676,1.0,confirmed
+Colon - Transverse,Brain - Cortex,0.2569563110520072,0.7,causal_only
+Colon - Transverse,Kidney - Cortex,0.06089408515268623,0.3,secretome_only
+Colon - Transverse,Artery - Coronary,0.04322469959786742,0.3,secretome_only
+Colon - Transverse,Artery - Tibial,0.028973511893480474,0.3,secretome_only
+Colon - Transverse,Liver,0.0463348102626981,0.3,secretome_only
+Colon - Transverse,Skin - Not Sun Exposed (Suprapubic),0.06652517898260618,0.3,secretome_only
+Liver,Brain - Cortex,0.14110203869314186,0.7,causal_only
+Liver,Artery - Coronary,0.028431781912034618,0.3,secretome_only
+Liver,Skin - Sun Exposed (Lower leg),0.03174490492056858,0.3,secretome_only
+Liver,Heart - Left Ventricle,0.027975490450667512,0.3,secretome_only
+Liver,Adipose - Subcutaneous,0.021799656876320034,0.3,secretome_only
+Liver,Pancreas,0.012179574534575487,0.3,secretome_only
+Liver,Skin - Not Sun Exposed (Suprapubic),0.020675254579699605,0.3,secretome_only
+Liver,Artery - Tibial,0.030520693900511594,0.3,secretome_only
+Liver,Esophagus - Mucosa,0.013670502811391658,0.3,secretome_only
+Liver,Muscle - Skeletal,0.02622641205535147,0.3,secretome_only
+Liver,Brain - Cerebellum,0.024414940171627663,0.3,secretome_only
+Liver,Thyroid,0.02829966902626491,0.3,secretome_only
+Liver,Adipose - Visceral (Omentum),0.034061118760986865,0.3,secretome_only
+Skin - Not Sun Exposed (Suprapubic),Stomach,0.23430255352594223,1.0,confirmed
+Skin - Not Sun Exposed (Suprapubic),Heart - Left Ventricle,0.14383772662284364,0.7,causal_only
+Skin - Not Sun Exposed (Suprapubic),Pancreas,0.4024701176094516,0.7,causal_only
+Skin - Not Sun Exposed (Suprapubic),Colon - Transverse,0.12344132851109042,0.3,secretome_only
+Skin - Not Sun Exposed (Suprapubic),Colon - Sigmoid,0.04545038610176654,0.3,secretome_only
+Skin - Not Sun Exposed (Suprapubic),Artery - Coronary,0.061294116771767666,0.3,secretome_only
+Colon - Sigmoid,Adipose - Visceral (Omentum),0.0431315661884438,0.3,secretome_only
+Colon - Sigmoid,Lung,0.045545611520508844,0.3,secretome_only
+Colon - Sigmoid,Pancreas,0.06506537816138172,0.3,secretome_only
+Colon - Sigmoid,Skin - Not Sun Exposed (Suprapubic),0.05701011641500169,0.3,secretome_only
+Colon - Sigmoid,Brain - Cortex,0.02886962375880124,0.3,secretome_only
+Colon - Sigmoid,Esophagus - Mucosa,0.060377703955862685,0.3,secretome_only
+Whole Blood,Liver,0.15062419140612368,1.0,confirmed
+Whole Blood,Heart - Atrial Appendage,0.1853974062261022,1.0,confirmed
+Whole Blood,Skin - Not Sun Exposed (Suprapubic),0.020612840329558613,0.3,secretome_only
+Whole Blood,Pituitary,0.028963282620649705,0.3,secretome_only
+Whole Blood,Stomach,0.02393173129914026,0.3,secretome_only
+Whole Blood,Colon - Sigmoid,0.044707261570233754,0.3,secretome_only
+Whole Blood,Adipose - Visceral (Omentum),0.03832316112832801,0.3,secretome_only
+Whole Blood,Lung,0.03783876800186456,0.3,secretome_only
+Whole Blood,Esophagus - Mucosa,0.023205026522654548,0.3,secretome_only
+Whole Blood,Skin - Sun Exposed (Lower leg),0.017098128734149072,0.3,secretome_only
+Artery - Aorta,Spleen,0.17611628112175798,1.0,confirmed
+Artery - Aorta,Adrenal Gland,0.10913648582757798,0.7,causal_only
+Artery - Aorta,Small Intestine - Terminal Ileum,0.0662824094804058,0.3,secretome_only
+Artery - Aorta,Colon - Sigmoid,0.029619982222857572,0.3,secretome_only
+Artery - Aorta,Adipose - Subcutaneous,0.05206410093791385,0.3,secretome_only
+Artery - Aorta,Heart - Left Ventricle,0.03769086864773131,0.3,secretome_only
+Artery - Aorta,Thyroid,0.02872740695400034,0.3,secretome_only
+Artery - Aorta,Adipose - Visceral (Omentum),0.040158283038022394,0.3,secretome_only
+Lung,Adrenal Gland,0.34357058409505503,0.7,causal_only
+Lung,Heart - Left Ventricle,0.16425954321951192,0.7,causal_only
+Lung,Liver,0.04541141741506205,0.3,secretome_only
+Lung,Skin - Not Sun Exposed (Suprapubic),0.05333862035461349,0.3,secretome_only
+Lung,Whole Blood,0.03024619698398853,0.3,secretome_only
+Lung,Esophagus - Mucosa,0.02322521599597005,0.3,secretome_only
+Lung,Colon - Transverse,0.02961452351289666,0.3,secretome_only
+Lung,Colon - Sigmoid,0.03648381855489004,0.3,secretome_only
+Lung,Adipose - Visceral (Omentum),0.05682358612619076,0.3,secretome_only
+Lung,Spleen,0.02485662105638842,0.3,secretome_only
+Adipose - Subcutaneous,Nerve - Tibial,0.2139244056146479,1.0,confirmed
+Adipose - Subcutaneous,Brain - Cerebellum,0.3428605010831084,0.7,causal_only
+Adipose - Subcutaneous,Pituitary,0.19277767797140158,0.7,causal_only
+Adipose - Subcutaneous,Colon - Transverse,0.030733420284311568,0.3,secretome_only
+Adipose - Subcutaneous,Esophagus - Mucosa,0.021773763357551417,0.3,secretome_only
+Adipose - Subcutaneous,Heart - Left Ventricle,0.05881208979196123,0.3,secretome_only
+Adipose - Subcutaneous,Liver,0.02634793106769785,0.3,secretome_only
+Adipose - Subcutaneous,Stomach,0.019921907109261738,0.3,secretome_only
+Adipose - Subcutaneous,Adrenal Gland,0.059209476531055696,0.3,secretome_only
+Adipose - Subcutaneous,Thyroid,0.034743567327231314,0.3,secretome_only
+Adipose - Subcutaneous,Adipose - Visceral (Omentum),0.030187664696078,0.3,secretome_only
+Esophagus - Mucosa,Adipose - Visceral (Omentum),0.037667034523612405,0.3,secretome_only
+Esophagus - Mucosa,Muscle - Skeletal,0.07578272243613594,0.3,secretome_only
+Esophagus - Mucosa,Stomach,0.05609514035339804,0.3,secretome_only
+Esophagus - Mucosa,Adrenal Gland,0.03640648266704178,0.3,secretome_only
+Esophagus - Mucosa,Thyroid,0.09404862001981178,0.3,secretome_only
+Heart - Atrial Appendage,Esophagus - Mucosa,0.18373505101780122,1.0,confirmed
+Heart - Atrial Appendage,Artery - Coronary,0.25857147470742525,0.7,causal_only
+Heart - Atrial Appendage,Liver,0.06459995053000957,0.3,secretome_only
+Heart - Atrial Appendage,Nerve - Tibial,0.025431509076892896,0.3,secretome_only
+Heart - Atrial Appendage,Artery - Aorta,0.044210952346553326,0.3,secretome_only
+Heart - Atrial Appendage,Colon - Transverse,0.042220226922273084,0.3,secretome_only
+Heart - Atrial Appendage,Thyroid,0.027077078653046923,0.3,secretome_only
+Heart - Atrial Appendage,Pituitary,0.052501781157911,0.3,secretome_only
+Adipose - Visceral (Omentum),Colon - Sigmoid,0.2102644645061103,1.0,confirmed
+Adipose - Visceral (Omentum),Lung,0.1993475182052018,0.7,causal_only
+Adipose - Visceral (Omentum),Adipose - Subcutaneous,0.02173726299932098,0.3,secretome_only
+Adipose - Visceral (Omentum),Pituitary,0.030289091667515183,0.3,secretome_only
+Adipose - Visceral (Omentum),Artery - Tibial,0.025582127506649694,0.3,secretome_only
+Adipose - Visceral (Omentum),Brain - Cortex,0.037383156201419354,0.3,secretome_only
+Adipose - Visceral (Omentum),Nerve - Tibial,0.014714653898766094,0.3,secretome_only
+Adipose - Visceral (Omentum),Muscle - Skeletal,0.039538527311723325,0.3,secretome_only
+Adipose - Visceral (Omentum),Artery - Aorta,0.031532631935286014,0.3,secretome_only
+Adipose - Visceral (Omentum),Esophagus - Mucosa,0.014282530225507156,0.3,secretome_only
+Adipose - Visceral (Omentum),Kidney - Cortex,0.031878877969288524,0.3,secretome_only
+Adipose - Visceral (Omentum),Heart - Atrial Appendage,0.0310261833811314,0.3,secretome_only
+Small Intestine - Terminal Ileum,Heart - Left Ventricle,0.34101104599656695,0.7,causal_only
+Small Intestine - Terminal Ileum,Brain - Cortex,0.3886137962076827,0.7,causal_only
+Small Intestine - Terminal Ileum,Nerve - Tibial,0.04313480665054858,0.3,secretome_only
+Small Intestine - Terminal Ileum,Brain - Cerebellum,0.06304316862395683,0.3,secretome_only
+Small Intestine - Terminal Ileum,Thyroid,0.04606762984643963,0.3,secretome_only
+Small Intestine - Terminal Ileum,Heart - Atrial Appendage,0.05819909894962924,0.3,secretome_only
+Small Intestine - Terminal Ileum,Adipose - Subcutaneous,0.046152269495828444,0.3,secretome_only
+Small Intestine - Terminal Ileum,Pituitary,0.043403026433597294,0.3,secretome_only
+Pancreas,Pituitary,0.23828135767073674,1.0,confirmed
+Pancreas,Liver,0.22315862400487857,0.7,causal_only
+Pancreas,Brain - Cerebellum,0.03713474336387805,0.3,secretome_only
+Pancreas,Artery - Aorta,0.028610186929855903,0.3,secretome_only
+Pancreas,Colon - Transverse,0.046362285718296654,0.3,secretome_only
+Pancreas,Esophagus - Mucosa,0.039030860035883054,0.3,secretome_only
+Pancreas,Spleen,0.03671065410076107,0.3,secretome_only
+Pancreas,Skin - Sun Exposed (Lower leg),0.024125488162776126,0.3,secretome_only
+Pancreas,Skin - Not Sun Exposed (Suprapubic),0.031189205287707654,0.3,secretome_only
+Pancreas,Stomach,0.02473677450003199,0.3,secretome_only
+Brain - Cerebellum,Spleen,0.04955430783482656,0.3,secretome_only
+Brain - Cerebellum,Kidney - Cortex,0.039979925335179474,0.3,secretome_only
+Brain - Cerebellum,Heart - Left Ventricle,0.05952608795580553,0.3,secretome_only
+Brain - Cerebellum,Pituitary,0.05224175423084034,0.3,secretome_only
+Brain - Cerebellum,Artery - Tibial,0.03375692572173825,0.3,secretome_only
+Brain - Cerebellum,Esophagus - Mucosa,0.06494099892160987,0.3,secretome_only
+Skin - Sun Exposed (Lower leg),Liver,0.09100034373175181,0.7,causal_only
+Skin - Sun Exposed (Lower leg),Pancreas,0.10108372796614477,0.3,secretome_only
+Skin - Sun Exposed (Lower leg),Skin - Not Sun Exposed (Suprapubic),0.07029081742069461,0.3,secretome_only
+Skin - Sun Exposed (Lower leg),Brain - Cortex,0.058471733169677895,0.3,secretome_only
+Skin - Sun Exposed (Lower leg),Nerve - Tibial,0.07015372144348271,0.3,secretome_only
+Pituitary,Colon - Transverse,0.02617318840698025,0.3,secretome_only
+Pituitary,Colon - Sigmoid,0.01948287302333617,0.3,secretome_only
+Pituitary,Brain - Cerebellum,0.036340357296558004,0.3,secretome_only
+Pituitary,Spleen,0.035738896271005016,0.3,secretome_only
+Pituitary,Skin - Not Sun Exposed (Suprapubic),0.03250737926265682,0.3,secretome_only
+Pituitary,Heart - Left Ventricle,0.034618109223118025,0.3,secretome_only
+Pituitary,Artery - Tibial,0.032112233743023307,0.3,secretome_only
+Pituitary,Brain - Cortex,0.02380502582471294,0.3,secretome_only
+Pituitary,Stomach,0.026370805840888977,0.3,secretome_only
+Pituitary,Artery - Aorta,0.03285113110772049,0.3,secretome_only
+Thyroid,Lung,0.27485259597465517,1.0,confirmed
+Thyroid,Adrenal Gland,0.24553207394281473,1.0,confirmed
+Thyroid,Colon - Sigmoid,0.30734046582508573,0.7,causal_only
+Thyroid,Whole Blood,0.3059357542065435,0.7,causal_only
+Thyroid,Adipose - Visceral (Omentum),0.5144986939660657,0.7,causal_only
+Thyroid,Spleen,0.04581213372426814,0.3,secretome_only
+Thyroid,Skin - Sun Exposed (Lower leg),0.01603888178984057,0.3,secretome_only
+Thyroid,Pituitary,0.03935785248474036,0.3,secretome_only
+Thyroid,Brain - Cortex,0.03967351407060732,0.3,secretome_only
+Thyroid,Artery - Tibial,0.01992729365583375,0.3,secretome_only
+Thyroid,Nerve - Tibial,0.04599391358046431,0.3,secretome_only
+Thyroid,Artery - Aorta,0.046891860598889286,0.3,secretome_only
+Stomach,Small Intestine - Terminal Ileum,0.051616431504756144,0.3,secretome_only
+Stomach,Colon - Sigmoid,0.06954635682746987,0.3,secretome_only
+Stomach,Lung,0.040779653518184675,0.3,secretome_only
+Stomach,Adipose - Subcutaneous,0.049129748119857326,0.3,secretome_only
+Stomach,Pituitary,0.061151491110326736,0.3,secretome_only
+Stomach,Brain - Cortex,0.0277763189194052,0.3,secretome_only
+Muscle - Skeletal,Esophagus - Mucosa,0.18282852991954088,0.7,causal_only
+Muscle - Skeletal,Liver,0.35625234183825427,0.7,causal_only
+Muscle - Skeletal,Thyroid,0.06625132462917145,0.3,secretome_only
+Muscle - Skeletal,Brain - Cerebellum,0.040578933520663656,0.3,secretome_only
+Muscle - Skeletal,Kidney - Cortex,0.05170166581841815,0.3,secretome_only
+Muscle - Skeletal,Pituitary,0.06798459043360176,0.3,secretome_only
+Muscle - Skeletal,Brain - Cortex,0.04398937697570739,0.3,secretome_only
+Muscle - Skeletal,Small Intestine - Terminal Ileum,0.029494108622437593,0.3,secretome_only
+Artery - Tibial,Brain - Cerebellum,0.18263678878444167,1.0,confirmed
+Artery - Tibial,Artery - Coronary,0.2280923136457052,0.7,causal_only
+Artery - Tibial,Lung,0.059832820261132715,0.3,secretome_only
+Artery - Tibial,Spleen,0.021513388259236012,0.3,secretome_only
+Artery - Tibial,Adrenal Gland,0.061196090697465524,0.3,secretome_only
+Artery - Tibial,Esophagus - Mucosa,0.05189126337349704,0.3,secretome_only
+Artery - Tibial,Muscle - Skeletal,0.0394016543578998,0.3,secretome_only
+Adrenal Gland,Liver,0.03278597702532874,0.3,secretome_only
+Adrenal Gland,Skin - Not Sun Exposed (Suprapubic),0.030851779015512303,0.3,secretome_only
+Adrenal Gland,Brain - Cortex,0.016332107731340747,0.3,secretome_only
+Adrenal Gland,Adipose - Visceral (Omentum),0.034114541970898624,0.3,secretome_only
+Adrenal Gland,Esophagus - Mucosa,0.0398182473622787,0.3,secretome_only
+Adrenal Gland,Spleen,0.03085283165449134,0.3,secretome_only
+Adrenal Gland,Pancreas,0.017085908721574138,0.3,secretome_only
+Adrenal Gland,Artery - Coronary,0.04187684650272773,0.3,secretome_only
+Adrenal Gland,Skin - Sun Exposed (Lower leg),0.023051330026099194,0.3,secretome_only
+Adrenal Gland,Artery - Tibial,0.03323042998974848,0.3,secretome_only

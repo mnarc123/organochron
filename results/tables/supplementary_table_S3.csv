@@ -1,0 +1,37 @@
+source_tissue,target_tissue,causal_weight,secretome_present,confidence_score,source_type
+Skin - Not Sun Exposed (Suprapubic),Stomach,0.2359,True,1.0,confirmed
+Skin - Not Sun Exposed (Suprapubic),Heart - Left Ventricle,0.1438,False,0.7,causal_only
+Skin - Not Sun Exposed (Suprapubic),Pancreas,0.4025,False,0.7,causal_only
+Artery - Coronary,Adrenal Gland,0.2312,False,0.7,causal_only
+Muscle - Skeletal,Esophagus - Mucosa,0.1828,False,0.7,causal_only
+Muscle - Skeletal,Liver,0.3563,False,0.7,causal_only
+Artery - Aorta,Spleen,0.2007,True,1.0,confirmed
+Artery - Aorta,Adrenal Gland,0.1091,False,0.7,causal_only
+Spleen,Brain - Cerebellum,0.2353,False,0.7,causal_only
+Spleen,Heart - Left Ventricle,0.2286,False,0.7,causal_only
+Skin - Sun Exposed (Lower leg),Liver,0.091,False,0.7,causal_only
+Artery - Tibial,Artery - Coronary,0.2281,False,0.7,causal_only
+Artery - Tibial,Brain - Cerebellum,0.1447,True,1.0,confirmed
+Adipose - Visceral (Omentum),Colon - Sigmoid,0.3471,True,1.0,confirmed
+Adipose - Visceral (Omentum),Lung,0.1993,False,0.7,causal_only
+Small Intestine - Terminal Ileum,Heart - Left Ventricle,0.341,False,0.7,causal_only
+Small Intestine - Terminal Ileum,Brain - Cortex,0.3886,False,0.7,causal_only
+Adipose - Subcutaneous,Pituitary,0.1928,False,0.7,causal_only
+Adipose - Subcutaneous,Nerve - Tibial,0.3669,True,1.0,confirmed
+Adipose - Subcutaneous,Brain - Cerebellum,0.3429,False,0.7,causal_only
+Heart - Atrial Appendage,Artery - Coronary,0.2586,False,0.7,causal_only
+Heart - Atrial Appendage,Esophagus - Mucosa,0.2209,True,1.0,confirmed
+Lung,Adrenal Gland,0.3436,False,0.7,causal_only
+Lung,Heart - Left Ventricle,0.1643,False,0.7,causal_only
+Liver,Brain - Cortex,0.1411,False,0.7,causal_only
+Whole Blood,Liver,0.1631,True,1.0,confirmed
+Whole Blood,Heart - Atrial Appendage,0.2912,True,1.0,confirmed
+Pancreas,Pituitary,0.3696,True,1.0,confirmed
+Pancreas,Liver,0.2232,False,0.7,causal_only
+Colon - Transverse,Heart - Left Ventricle,0.1303,True,1.0,confirmed
+Colon - Transverse,Brain - Cortex,0.257,False,0.7,causal_only
+Thyroid,Colon - Sigmoid,0.3073,False,0.7,causal_only
+Thyroid,Adrenal Gland,0.4273,True,1.0,confirmed
+Thyroid,Whole Blood,0.3059,False,0.7,causal_only
+Thyroid,Lung,0.4591,True,1.0,confirmed
+Thyroid,Adipose - Visceral (Omentum),0.5145,False,0.7,causal_only

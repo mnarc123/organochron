@@ -1,0 +1,21 @@
+drug,CRS_global,best_tissue,status,targets,indication,atc_codes,in_drugage
+gliclazide,2.8624906068062486,Thyroid,approved,ABCC8;KCNJ11,Type 2 diabetes,A10BB09,False
+dexamethasone,2.631039605806301,Heart - Atrial Appendage,approved,NR3C1,Inflammation,H02AB02,False
+pioglitazone,2.520994881218904,Heart - Atrial Appendage,approved,PPARG,Type 2 diabetes,A10BG03,False
+atorvastatin,2.443745666996622,Heart - Atrial Appendage,approved,HMGCR,Hypercholesterolemia,C10AA05,False
+digoxin,2.261968657141753,Heart - Atrial Appendage,approved,ATP1A1,Heart failure,C01AA05,False
+dasatinib,2.142853309625863,Thyroid,approved,ABL1;SRC;KIT,Cancer,L01EA02,False
+pravastatin,2.0856482232826012,Spleen,approved,HMGCR,Hypercholesterolemia,C10AA03,True
+captopril,2.0493525591921613,Skin - Not Sun Exposed (Suprapubic),approved,ACE,Hypertension,C09AA01,True
+ramipril,2.02418201971773,Spleen,approved,ACE,Hypertension,C09AA05,False
+ibuprofen,1.9323113172975015,Pituitary,approved,PTGS1;PTGS2,"Pain, inflammation",M01AE01,True
+aspirin,1.8410563960831394,Pituitary,approved,PTGS1;PTGS2,"Pain, inflammation",N02BA01,True
+pentoxifylline,1.7904116402648504,Thyroid,approved,PDE4B;TNF,Peripheral vascular disease,C04AD03,False
+metformin,1.7201996756872806,Thyroid,approved,PRKAA1;PRKAA2,Type 2 diabetes,A10BA02,True
+acarbose,1.7180782724612185,Heart - Atrial Appendage,approved,GAA;MGAM,Type 2 diabetes,A10BF01,True
+losartan,1.5923152936596239,Small Intestine - Terminal Ileum,approved,AGTR1,Hypertension,C09CA01,True
+ruxolitinib,1.5009946541710446,Pancreas,approved,JAK1;JAK2,Myelofibrosis,L01EJ01,False
+hydrochlorothiazide,1.4844624526289738,Pituitary,approved,SLC12A3,Hypertension,C03AA03,False
+troglitazone,1.4175073775485134,Pancreas,approved,PPARG,Type 2 diabetes,A10BG01,False
+rosuvastatin,1.360664976443811,Pancreas,approved,HMGCR,Hypercholesterolemia,C10AA07,False
+imatinib,1.3063979011385674,Adipose - Visceral (Omentum),approved,ABL1;KIT;PDGFRA,Cancer,L01EA01,False

@@ -1,0 +1,27 @@
+tissue,n_samples,n_total_genes,n_aging_genes,n_aging_up,n_aging_down,pct_aging,n_wgcna_modules,n_aging_modules,causal_out_degree,causal_in_degree,causal_pagerank,hub_score,TCI,classification
+Adipose - Subcutaneous,663,18649,5808,5137,671,31.14,2,1,0.9026,0.0,0.022,0.349,1.0218,broadcaster
+Adipose - Visceral (Omentum),541,18643,10148,9447,701,54.43,3,2,0.5464,0.5145,0.0267,0.0,0.0,broadcaster
+Adrenal Gland,258,17378,381,193,188,2.19,2,0,0.0,1.1112,0.0945,0.0,0.0,receiver
+Artery - Aorta,432,18765,6048,2922,3126,32.23,3,1,0.3098,0.0,0.022,0.0,0.0,broadcaster
+Artery - Coronary,240,19067,76,42,34,0.4,2,0,0.2312,0.4867,0.0496,0.0,0.0,broadcaster
+Artery - Tibial,663,18012,8321,5754,2567,46.2,3,1,0.3728,0.0,0.022,0.0,0.0,broadcaster
+Brain - Cerebellum,241,19710,10321,244,10077,52.36,1,1,0.0,0.7229,0.051,0.0,0.0,receiver
+Brain - Cortex,255,18017,6516,946,5570,36.17,7,4,0.0,0.7867,0.1043,0.0,0.0,receiver
+Colon - Sigmoid,373,18600,2474,1783,691,13.3,3,1,0.0,0.6544,0.0392,0.0,0.0,receiver
+Colon - Transverse,406,19176,5935,3757,2178,30.95,2,2,0.3873,0.0,0.022,0.0,0.0,broadcaster
+Esophagus - Mucosa,555,18055,2880,2114,766,15.95,1,0,0.0,0.4038,0.0422,0.0,0.0,receiver
+Heart - Atrial Appendage,429,16325,88,77,11,0.54,4,0,0.4795,0.2912,0.0355,0.0,0.0,broadcaster
+Heart - Left Ventricle,432,14512,1395,6,1389,9.61,1,1,0.0,1.008,0.0641,0.0,0.0,receiver
+Liver,226,15434,7,4,3,0.05,5,0,0.1411,0.8335,0.0706,0.0,0.0,broadcaster
+Lung,578,20657,2159,952,1207,10.45,3,1,0.5078,0.6584,0.0345,0.0,0.0,broadcaster
+Muscle - Skeletal,803,14561,5862,5253,609,40.26,3,2,0.5391,0.0,0.022,0.3492,0.9142,broadcaster
+Nerve - Tibial,619,20499,4379,3089,1290,21.36,3,1,0.0,0.3669,0.0295,0.0,0.0,receiver
+Pancreas,328,15470,24,19,5,0.16,2,0,0.5927,0.4025,0.0316,0.0,0.0,broadcaster
+Pituitary,283,21074,334,22,312,1.58,1,0,0.0,0.5623,0.0427,0.0,0.0,receiver
+Skin - Not Sun Exposed (Suprapubic),604,19085,2364,2089,275,12.39,2,0,0.7822,0.0,0.022,0.4262,1.07,broadcaster
+Skin - Sun Exposed (Lower leg),701,19138,2775,2591,184,14.5,1,1,0.091,0.0,0.022,0.0,0.0,broadcaster
+Small Intestine - Terminal Ileum,187,20190,4800,131,4669,23.77,5,3,0.7296,0.0,0.022,0.3608,1.0354,broadcaster
+Spleen,241,19545,185,150,35,0.95,3,1,0.464,0.2007,0.034,0.0,0.0,broadcaster
+Stomach,359,18449,839,14,825,4.55,2,0,0.0,0.2359,0.0276,0.0,0.0,receiver
+Thyroid,653,20771,1134,626,508,5.46,3,0,2.0142,0.0,0.022,0.6543,2.1144,broadcaster
+Whole Blood,755,14308,4734,125,4609,33.09,3,1,0.4543,0.3059,0.0248,0.0,0.0,broadcaster
