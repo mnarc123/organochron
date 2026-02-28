@@ -2,7 +2,7 @@
 
 **A Causal Inter-Organ Crosstalk Map Reveals Aging Pacemaker Organs and Cascade Drug Repurposing Targets**
 
-[![DOI](https://zenodo.org/badge/DOI/PLACEHOLDER.svg)](https://doi.org/PLACEHOLDER)
+[![DOI](https://zenodo.org/badge/1169378900.svg)](https://doi.org/10.5281/zenodo.18816592)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python 3.11+](https://img.shields.io/badge/python-3.11%2B-blue.svg)](https://www.python.org/)
 
@@ -177,11 +177,11 @@ python -m pytest tests/ -v
 If you use OrganoChron in your research, please cite:
 
 ```bibtex
-@article{organochron2025,
+@article{organochron2026,
   title={OrganoChron: A Causal Inter-Organ Crosstalk Map Reveals Aging Pacemaker Organs and Cascade Drug Repurposing Targets},
-  author={[Author]},
-  year={2025},
-  doi={PLACEHOLDER}
+  author={Marco Narcisi},
+  year={2026},
+  doi={10.5281/zenodo.18816593}
 }
 ```
 
