@@ -1,0 +1,154 @@
+{
+  "n_broadcasters": 17,
+  "n_receivers": 9,
+  "broadcasters": {
+    "Thyroid": {
+      "causal_out_degree": 2.0141957535147808,
+      "causal_in_degree": 0.0,
+      "causal_pagerank": 0.021954861220161742
+    },
+    "Adipose - Subcutaneous": {
+      "causal_out_degree": 0.9025863908343018,
+      "causal_in_degree": 0.0,
+      "causal_pagerank": 0.021954861220161742
+    },
+    "Skin - Not Sun Exposed (Suprapubic)": {
+      "causal_out_degree": 0.7821990558995952,
+      "causal_in_degree": 0.0,
+      "causal_pagerank": 0.021954861220161742
+    },
+    "Small Intestine - Terminal Ileum": {
+      "causal_out_degree": 0.7296248422042497,
+      "causal_in_degree": 0.0,
+      "causal_pagerank": 0.021954861220161742
+    },
+    "Pancreas": {
+      "causal_out_degree": 0.592721999676987,
+      "causal_in_degree": 0.4024701176094516,
+      "causal_pagerank": 0.031556941097497716
+    },
+    "Adipose - Visceral (Omentum)": {
+      "causal_out_degree": 0.5464265908727814,
+      "causal_in_degree": 0.5144986939660657,
+      "causal_pagerank": 0.02672171205236751
+    },
+    "Muscle - Skeletal": {
+      "causal_out_degree": 0.5390808717577952,
+      "causal_in_degree": 0.0,
+      "causal_pagerank": 0.021954861220161742
+    },
+    "Lung": {
+      "causal_out_degree": 0.5078301273145669,
+      "causal_in_degree": 0.6584497375955076,
+      "causal_pagerank": 0.03449496084172279
+    },
+    "Heart - Atrial Appendage": {
+      "causal_out_degree": 0.47951323903198384,
+      "causal_in_degree": 0.2912407320196201,
+      "causal_pagerank": 0.03546280215280286
+    },
+    "Spleen": {
+      "causal_out_degree": 0.463954047420995,
+      "causal_in_degree": 0.20070939984662006,
+      "causal_pagerank": 0.034043320165106236
+    },
+    "Whole Blood": {
+      "causal_out_degree": 0.4543105292863804,
+      "causal_in_degree": 0.3059357542065435,
+      "causal_pagerank": 0.02478936813270436
+    },
+    "Colon - Transverse": {
+      "causal_out_degree": 0.3872697673064821,
+      "causal_in_degree": 0.0,
+      "causal_pagerank": 0.021954861220161742
+    },
+    "Artery - Tibial": {
+      "causal_out_degree": 0.3728166143786922,
+      "causal_in_degree": 0.0,
+      "causal_pagerank": 0.021954861220161742
+    },
+    "Artery - Aorta": {
+      "causal_out_degree": 0.309845885674198,
+      "causal_in_degree": 0.0,
+      "causal_pagerank": 0.021954861220161742
+    },
+    "Artery - Coronary": {
+      "causal_out_degree": 0.23119910208285638,
+      "causal_in_degree": 0.48666378835313046,
+      "causal_pagerank": 0.04962695821083385
+    },
+    "Liver": {
+      "causal_out_degree": 0.14110203869314186,
+      "causal_in_degree": 0.833481106841645,
+      "causal_pagerank": 0.0706116170057342
+    },
+    "Skin - Sun Exposed (Lower leg)": {
+      "causal_out_degree": 0.09100034373175181,
+      "causal_in_degree": 0.0,
+      "causal_pagerank": 0.021954861220161742
+    }
+  },
+  "receivers": {
+    "Brain - Cortex": {
+      "causal_out_degree": 0.0,
+      "causal_in_degree": 0.7866721459528319,
+      "causal_pagerank": 0.1042995053859799
+    },
+    "Adrenal Gland": {
+      "causal_out_degree": 0.0,
+      "causal_in_degree": 1.1112247921322693,
+      "causal_pagerank": 0.09450771080254959
+    },
+    "Heart - Left Ventricle": {
+      "causal_out_degree": 0.0,
+      "causal_in_degree": 1.0080452999685832,
+      "causal_pagerank": 0.0641319797050868
+    },
+    "Brain - Cerebellum": {
+      "causal_out_degree": 0.0,
+      "causal_in_degree": 0.7229153213619046,
+      "causal_pagerank": 0.05096620889019253
+    },
+    "Pituitary": {
+      "causal_out_degree": 0.0,
+      "causal_in_degree": 0.5623410536435101,
+      "causal_pagerank": 0.04266572047992193
+    },
+    "Esophagus - Mucosa": {
+      "causal_out_degree": 0.0,
+      "causal_in_degree": 0.4037702942440995,
+      "causal_pagerank": 0.04217314580544676
+    },
+    "Colon - Sigmoid": {
+      "causal_out_degree": 0.0,
+      "causal_in_degree": 0.6544195384926653,
+      "causal_pagerank": 0.03922980349740976
+    },
+    "Nerve - Tibial": {
+      "causal_out_degree": 0.0,
+      "causal_in_degree": 0.3669482117797918,
+      "causal_pagerank": 0.029541771633251158
+    },
+    "Stomach": {
+      "causal_out_degree": 0.0,
+      "causal_in_degree": 0.23589121166729987,
+      "causal_pagerank": 0.027582723159936692
+    }
+  },
+  "spearman_outdeg_vs_pagerank": {
+    "rho": -0.6549019607843136,
+    "p": 0.00028290196222926096
+  },
+  "wilcoxon_aging_genes": {
+    "U": 74.0,
+    "p": 0.9141594109425056,
+    "broadcaster_median": 2775.0,
+    "receiver_median": 2474.0
+  },
+  "post_mitotic_enrichment": {
+    "odds_ratio": 12.8,
+    "p": 0.03447856491334752,
+    "post_mitotic_receivers": 4,
+    "post_mitotic_broadcasters": 1
+  }
+}
